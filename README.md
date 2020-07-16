@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm chielorenz, feel free to check out my repos and ask any questions!
+
 <!--
 **chielorenz/chielorenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
